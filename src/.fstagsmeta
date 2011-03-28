@@ -1,0 +1,99 @@
+[windows xp.vdi]
+tags = important, important, important, important
+
+[.ICEauthority]
+tags = important, important, important, important
+
+[.profile]
+tags = important, important, important, important
+
+[.bash_logout]
+tags = important, important, important, important
+
+[.selected_editor]
+tags = important, important, important, important
+
+[.sudo_as_admin_successful]
+tags = important, important, important, important
+
+[.bashrc]
+tags = important, important, important, important
+
+[.Xauthority]
+tags = important, important, important, important
+
+[.bzr.log]
+tags = important, important, important, important
+
+[.gksu.lock]
+tags = important, important, important, important
+
+[.rnd]
+tags = important, important, important, important
+
+[examples.desktop]
+tags = important, important, important, important
+
+[.recently-used.xbel]
+tags = important, important, important, important
+
+[main]
+tags = 
+
+[.gtk-bookmarks]
+tags = important, important, important, important
+
+[workspace_erlide.log]
+tags = dev, dev, dev, dev
+
+[libflashplayer.so]
+tags = important, important, important, important
+
+[.pulse-cookie]
+tags = important, important, important, important
+
+[problem02.py]
+tags = important, important, important, important
+
+[hs_err_pid3126.log]
+tags = important, important, important, important
+
+[.bash_history]
+tags = important, important, important, important
+
+[.viminfo]
+tags = important, important, important, important
+
+[topics.xls]
+tags = important, important, important, important
+
+[workspace_erlide.log.lck]
+tags = dev, dev, dev, dev
+
+[.xsession-errors.old]
+tags = important, important, important, important
+
+[.xsession-errors]
+tags = important, important, important, important
+
+[.dmrc]
+tags = important, important, important, important
+
+[hs_err_pid2401.log]
+tags = important, important, important, important
+
+[.hgrc]
+tags = important, important, important, important
+
+[Firefox_wallpaper.png]
+tags = important, important, important, important
+
+[.esd_auth]
+tags = important, important, important, important
+
+[qshell]
+tags = important, work, important, work, important, work, important, work
+
+[buildbot.diff]
+tags = important, important, important, important
+

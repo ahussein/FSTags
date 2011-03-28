@@ -1,0 +1,9 @@
+About FSTags:
+FStags is a simple application that let you put some tags/lables to files or folders in your filesystem
+then you can show the tags for specific file/folder or search the filesystem based on some set of tags.
+It is also a plugabble application that can handle a set of plugins that process the file/folder with specific tags
+
+Requireemnts:
+To use FSTags, you need to install lightcloud http://opensource.plurk.com/LightCloud . Lightcloud is a key/value store that is used as a backend store for the tags info
+please refer to the lightcloud installation pages for how to install: http://opensource.plurk.com/LightCloud/Installation/
+
